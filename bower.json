@@ -1,0 +1,17 @@
+{
+  "name": "ciims-users-card",
+  "version": "0.0.0",
+  "homepage": "https://github.com/charlesportwoodii/ciims-users-card",
+  "authors": [
+    "Charles R. Portwood II <charlesportwoodii@ethreal.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

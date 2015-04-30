@@ -1,0 +1,22 @@
+{
+    "name": "GithubCard",
+    "description": "A card to display Github information for a particular repository",
+    "version": "0.0.1",
+    "image": "card.png",
+    "footerText": "",
+    "properties": {
+        "github_user": {
+            "name": "Github Username",
+            "type": "text",
+            "value": null
+        },
+        "github_repository": {
+            "name": "Github Repository Name",
+            "type": "text",
+            "value": null
+        }
+    },
+    "availableTileSizes": [
+        "rectangle"
+    ]
+}
